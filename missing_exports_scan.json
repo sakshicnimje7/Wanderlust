@@ -1,0 +1,12 @@
+[
+  {
+    "importer": "src/app/components/FeaturedDestinationsSection.tsx",
+    "import": "@/components/ui/AppImage",
+    "target": "src/components/ui/AppImage.tsx"
+  },
+  {
+    "importer": "src/app/components/FeaturedDestinationsSection.tsx",
+    "import": "@/components/ui/AppIcon",
+    "target": "src/components/ui/AppIcon.tsx"
+  }
+]

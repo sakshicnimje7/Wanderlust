@@ -1,0 +1,728 @@
+﻿[
+    {
+        "path":  ".env",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  ".eslintrc.json",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  ".gitignore",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  ".prettierignore",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  ".prettierrc",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "ERROR_ANALYSIS_REPORT.md",
+        "bytes":  12205,
+        "empty":  false,
+        "preview":  "# Next.js Project Error Analysis Report\\\\r\\\\n**Project:** YouTour (Wanderlust Travel App)  \\\\r\\\\n**Analysis "
+    },
+    {
+        "path":  "image-hosts.config.mjs",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "next-env.d.ts",
+        "bytes":  216,
+        "empty":  false,
+        "preview":  "/// \u003creference types=\"next\" /\u003e\\\\r\\\\n/// \u003creference types=\"next/image-types/global\" /\u003e\\\\r\\\\n\\\\r\\\\n// NOTE: This f"
+    },
+    {
+        "path":  "next.config.mjs",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "package-lock.json",
+        "bytes":  258185,
+        "empty":  false,
+        "preview":  "{\\\\n  \"name\": \"wanderlust\",\\\\n  \"version\": \"0.1.0\",\\\\n  \"lockfileVersion\": 3,\\\\n  \"requires\": true,\\\\n  \"packa"
+    },
+    {
+        "path":  "package.json",
+        "bytes":  2083,
+        "empty":  false,
+        "preview":  "{\\\\n  \"name\": \"wanderlust\",\\\\n  \"version\": \"0.1.0\",\\\\n  \"private\": true,\\\\n  \"rocketCritical\": {\\\\n    \"depend"
+    },
+    {
+        "path":  "postcss.config.js",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "README.md",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "setup-package-json.js",
+        "bytes":  2416,
+        "empty":  false,
+        "preview":  "const fs = require(\u0027fs\u0027);\\\\r\\\\nconst path = require(\u0027path\u0027);\\\\r\\\\n\\\\r\\\\nconst packageJson = {\\\\r\\\\n  \"name\": \"wander"
+    },
+    {
+        "path":  "tailwind.config.js",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "tsconfig.json",
+        "bytes":  606,
+        "empty":  false,
+        "preview":  "{\\\\n  \"compilerOptions\": {\\\\n    \"target\": \"ES2017\",\\\\n    \"lib\": [\\\\n      \"dom\",\\\\n      \"dom.iterable\",\\\\n   "
+    },
+    {
+        "path":  ".next/app-build-manifest.json",
+        "bytes":  1769,
+        "empty":  false,
+        "preview":  "{\\\\n  \"pages\": {\\\\n    \"/not-found\": [\\\\n      \"static/chunks/webpack-405afa853003b01f.js\",\\\\n      \"static/"
+    },
+    {
+        "path":  ".next/build-manifest.json",
+        "bytes":  995,
+        "empty":  false,
+        "preview":  "{\\\\n  \"polyfillFiles\": [\\\\n    \"static/chunks/polyfills-42372ed130431b0a.js\"\\\\n  ],\\\\n  \"devFiles\": [],\\\\n  \"a"
+    },
+    {
+        "path":  ".next/package.json",
+        "bytes":  20,
+        "empty":  false,
+        "preview":  "{\"type\": \"commonjs\"}"
+    },
+    {
+        "path":  ".next/react-loadable-manifest.json",
+        "bytes":  322,
+        "empty":  false,
+        "preview":  "{\\\\n  \"..\\\\node_modules\\\\next\\\\dist\\\\client\\\\index.js -\u003e ../pages/_app\": {\\\\n    \"id\": 5203,\\\\n    \"files\""
+    },
+    {
+        "path":  ".next/trace",
+        "bytes":  163037,
+        "empty":  false,
+        "preview":  "[{\"name\":\"generate-buildid\",\"duration\":420,\"timestamp\":196813085185,\"id\":4,\"parentId\":1,\"tags\":{},\"s"
+    },
+    {
+        "path":  ".next/cache/.rscinfo",
+        "bytes":  102,
+        "empty":  false,
+        "preview":  "{\"encryption.key\":\"ExmrKoHF46IA2riNEGZu15KiIw0tWna5t1mJl4v7jgg=\",\"encryption.expire_at\":177780465760"
+    },
+    {
+        "path":  ".next/cache/.tsbuildinfo",
+        "bytes":  104171,
+        "empty":  false,
+        "preview":  "{\"fileNames\":[\"../../node_modules/typescript/lib/lib.es5.d.ts\",\"../../node_modules/typescript/lib/li"
+    },
+    {
+        "path":  ".next/cache/webpack/client-production/0.pack",
+        "bytes":  22181407,
+        "empty":  false,
+        "preview":  "77 70 63 01 01 00 00 00 13 76 52 01 02 10 A7 77 65 62 70 61 63 6B 2F 6C 69 62 2F 63 61 63 68 65 2F 50 61 63 6B 46 69 6C 65 43 61 63 68 65 53 74 72 61 74 65 67 79 90 50 61 63 6B 43 6F 6E 74 65 6E 74 49 74 65 6D 73 0C 10 80 04 40 A0 04 00 00 FF 52 65 73 6F 6C 76 65 72 43 61 63 68 65 50 6C 75 67 69 6E"
+    },
+    {
+        "path":  ".next/cache/webpack/client-production/index.pack",
+        "bytes":  1850750,
+        "empty":  false,
+        "preview":  "77 70 63 01 03 00 00 00 5E 3D 1C 00 F7 FF FF FF 03 00 00 00 02 10 A7 77 65 62 70 61 63 6B 2F 6C 69 62 2F 63 61 63 68 65 2F 50 61 63 6B 46 69 6C 65 43 61 63 68 65 53 74 72 61 74 65 67 79 8D 50 61 63 6B 43 6F 6E 74 61 69 6E 65 72 1E 7F 08 00 00 44 3A 5C 41 47 45 4E 43 59 5C 59 6F 75 54 6F 75 72 5C 6E"
+    },
+    {
+        "path":  ".next/cache/webpack/edge-server-production/0.pack",
+        "bytes":  276,
+        "empty":  false,
+        "preview":  "77 70 63 01 01 00 00 00 08 01 00 00 02 10 A7 77 65 62 70 61 63 6B 2F 6C 69 62 2F 63 61 63 68 65 2F 50 61 63 6B 46 69 6C 65 43 61 63 68 65 53 74 72 61 74 65 67 79 90 50 61 63 6B 43 6F 6E 74 65 6E 74 49 74 65 6D 73 0C 10 80 04 01 BC 4D 69 6E 69 66 69 65 72 57 65 62 70 61 63 6B 50 6C 75 67 69 6E 7C 69"
+    },
+    {
+        "path":  ".next/cache/webpack/edge-server-production/index.pack",
+        "bytes":  2475,
+        "empty":  false,
+        "preview":  "77 70 63 01 03 00 00 00 8B 09 00 00 F7 FF FF FF 03 00 00 00 02 10 A7 77 65 62 70 61 63 6B 2F 6C 69 62 2F 63 61 63 68 65 2F 50 61 63 6B 46 69 6C 65 43 61 63 68 65 53 74 72 61 74 65 67 79 8D 50 61 63 6B 43 6F 6E 74 61 69 6E 65 72 1E 7E 08 00 00 44 3A 5C 41 47 45 4E 43 59 5C 59 6F 75 54 6F 75 72 5C 6E"
+    },
+    {
+        "path":  ".next/cache/webpack/server-production/0.pack",
+        "bytes":  11817525,
+        "empty":  false,
+        "preview":  "77 70 63 01 01 00 00 00 29 52 B4 00 02 10 A7 77 65 62 70 61 63 6B 2F 6C 69 62 2F 63 61 63 68 65 2F 50 61 63 6B 46 69 6C 65 43 61 63 68 65 53 74 72 61 74 65 67 79 90 50 61 63 6B 43 6F 6E 74 65 6E 74 49 74 65 6D 73 0C 10 80 04 40 3F 05 00 00 1E 62 03 00 00 52 65 73 6F 6C 76 65 72 43 61 63 68 65 50 6C"
+    },
+    {
+        "path":  ".next/cache/webpack/server-production/index.pack",
+        "bytes":  2006417,
+        "empty":  false,
+        "preview":  "77 70 63 01 03 00 00 00 71 9D 1E 00 F7 FF FF FF 03 00 00 00 02 10 A7 77 65 62 70 61 63 6B 2F 6C 69 62 2F 63 61 63 68 65 2F 50 61 63 6B 46 69 6C 65 43 61 63 68 65 53 74 72 61 74 65 67 79 8D 50 61 63 6B 43 6F 6E 74 61 69 6E 65 72 1E 7F 08 00 00 44 3A 5C 41 47 45 4E 43 59 5C 59 6F 75 54 6F 75 72 5C 6E"
+    },
+    {
+        "path":  ".next/diagnostics/build-diagnostics.json",
+        "bytes":  89,
+        "empty":  false,
+        "preview":  "{\\\\n  \"buildStage\": \"type-checking\",\\\\n  \"buildOptions\": {\\\\n    \"useBuildWorker\": \"true\"\\\\n  }\\\\n}"
+    },
+    {
+        "path":  ".next/diagnostics/framework.json",
+        "bytes":  38,
+        "empty":  false,
+        "preview":  "{\"name\":\"Next.js\",\"version\":\"15.1.11\"}"
+    },
+    {
+        "path":  ".next/server/app-paths-manifest.json",
+        "bytes":  294,
+        "empty":  false,
+        "preview":  "{\\\\n  \"/robots.txt/route\": \"app/robots.txt/route.js\",\\\\n  \"/sitemap.xml/route\": \"app/sitemap.xml/route.j"
+    },
+    {
+        "path":  ".next/server/interception-route-rewrite-manifest.js",
+        "bytes":  48,
+        "empty":  false,
+        "preview":  "self.__INTERCEPTION_ROUTE_REWRITE_MANIFEST=\"[]\";"
+    },
+    {
+        "path":  ".next/server/middleware-build-manifest.js",
+        "bytes":  909,
+        "empty":  false,
+        "preview":  "self.__BUILD_MANIFEST={polyfillFiles:[\"static/chunks/polyfills-42372ed130431b0a.js\"],devFiles:[],amp"
+    },
+    {
+        "path":  ".next/server/middleware-manifest.json",
+        "bytes":  83,
+        "empty":  false,
+        "preview":  "{\\\\n  \"version\": 3,\\\\n  \"middleware\": {},\\\\n  \"functions\": {},\\\\n  \"sortedMiddleware\": []\\\\n}"
+    },
+    {
+        "path":  ".next/server/middleware-react-loadable-manifest.js",
+        "bytes":  313,
+        "empty":  false,
+        "preview":  "self.__REACT_LOADABLE_MANIFEST=\u0027{\"..\\\\\\\\node_modules\\\\\\\\next\\\\\\\\dist\\\\\\\\client\\\\\\\\index.js -\u003e ../pag"
+    },
+    {
+        "path":  ".next/server/next-font-manifest.js",
+        "bytes":  106,
+        "empty":  false,
+        "preview":  "self.__NEXT_FONT_MANIFEST=\u0027{\"pages\":{},\"app\":{},\"appUsingSizeAdjust\":false,\"pagesUsingSizeAdjust\":fa"
+    },
+    {
+        "path":  ".next/server/next-font-manifest.json",
+        "bytes":  77,
+        "empty":  false,
+        "preview":  "{\"pages\":{},\"app\":{},\"appUsingSizeAdjust\":false,\"pagesUsingSizeAdjust\":false}"
+    },
+    {
+        "path":  ".next/server/pages-manifest.json",
+        "bytes":  100,
+        "empty":  false,
+        "preview":  "{\\\\n  \"/_app\": \"pages/_app.js\",\\\\n  \"/_error\": \"pages/_error.js\",\\\\n  \"/_document\": \"pages/_document.js\"\\\\n}"
+    },
+    {
+        "path":  ".next/server/server-reference-manifest.js",
+        "bytes":  123,
+        "empty":  false,
+        "preview":  "self.__RSC_SERVER_MANIFEST=\"{\\\"node\\\":{},\\\"edge\\\":{},\\\"encryptionKey\\\":\\\"process.env.NEXT_SERVER_ACT"
+    },
+    {
+        "path":  ".next/server/server-reference-manifest.json",
+        "bytes":  84,
+        "empty":  false,
+        "preview":  "{\"node\":{},\"edge\":{},\"encryptionKey\":\"ExmrKoHF46IA2riNEGZu15KiIw0tWna5t1mJl4v7jgg=\"}"
+    },
+    {
+        "path":  ".next/server/webpack-runtime.js",
+        "bytes":  1469,
+        "empty":  false,
+        "preview":  "(()=\u003e{\"use strict\";var e={},r={};function t(o){var n=r[o];if(void 0!==n)return n.exports;var a=r[o]="
+    },
+    {
+        "path":  ".next/server/app/page.js",
+        "bytes":  2562,
+        "empty":  false,
+        "preview":  "(()=\u003e{var e={};e.id=974,e.ids=[974],e.modules={846:e=\u003e{\"use strict\";e.exports=require(\"next/dist/com"
+    },
+    {
+        "path":  ".next/server/app/page.js.nft.json",
+        "bytes":  121,
+        "empty":  false,
+        "preview":  "{\"version\":1,\"files\":[\"../webpack-runtime.js\",\"../chunks/733.js\",\"../chunks/937.js\",\"page_client-ref"
+    },
+    {
+        "path":  ".next/server/app/page_client-reference-manifest.js",
+        "bytes":  3336,
+        "empty":  false,
+        "preview":  "globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST[\"/page\"]={\"modul"
+    },
+    {
+        "path":  ".next/server/app/destination-detail/page.js",
+        "bytes":  2679,
+        "empty":  false,
+        "preview":  "(()=\u003e{var e={};e.id=389,e.ids=[389],e.modules={846:e=\u003e{\"use strict\";e.exports=require(\"next/dist/com"
+    },
+    {
+        "path":  ".next/server/app/destination-detail/page.js.nft.json",
+        "bytes":  130,
+        "empty":  false,
+        "preview":  "{\"version\":1,\"files\":[\"../../webpack-runtime.js\",\"../../chunks/733.js\",\"../../chunks/937.js\",\"page_c"
+    },
+    {
+        "path":  ".next/server/app/destination-detail/page_client-reference-manifest.js",
+        "bytes":  3416,
+        "empty":  false,
+        "preview":  "globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST[\"/destination-de"
+    },
+    {
+        "path":  ".next/server/app/destinations/page.js",
+        "bytes":  2649,
+        "empty":  false,
+        "preview":  "(()=\u003e{var e={};e.id=354,e.ids=[354],e.modules={846:e=\u003e{\"use strict\";e.exports=require(\"next/dist/com"
+    },
+    {
+        "path":  ".next/server/app/destinations/page.js.nft.json",
+        "bytes":  130,
+        "empty":  false,
+        "preview":  "{\"version\":1,\"files\":[\"../../webpack-runtime.js\",\"../../chunks/733.js\",\"../../chunks/937.js\",\"page_c"
+    },
+    {
+        "path":  ".next/server/app/destinations/page_client-reference-manifest.js",
+        "bytes":  3404,
+        "empty":  false,
+        "preview":  "globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST[\"/destinations/p"
+    },
+    {
+        "path":  ".next/server/app/robots.txt/route.js",
+        "bytes":  1766,
+        "empty":  false,
+        "preview":  "(()=\u003e{var e={};e.id=784,e.ids=[784],e.modules={846:e=\u003e{\"use strict\";e.exports=require(\"next/dist/com"
+    },
+    {
+        "path":  ".next/server/app/robots.txt/route.js.nft.json",
+        "bytes":  121,
+        "empty":  false,
+        "preview":  "{\"version\":1,\"files\":[\"../../webpack-runtime.js\",\"../../chunks/733.js\",\"../../chunks/297.js\",\"../../"
+    },
+    {
+        "path":  ".next/server/app/sitemap.xml/route.js",
+        "bytes":  1957,
+        "empty":  false,
+        "preview":  "(()=\u003e{var e={};e.id=475,e.ids=[475],e.modules={846:e=\u003e{\"use strict\";e.exports=require(\"next/dist/com"
+    },
+    {
+        "path":  ".next/server/app/sitemap.xml/route.js.nft.json",
+        "bytes":  121,
+        "empty":  false,
+        "preview":  "{\"version\":1,\"files\":[\"../../webpack-runtime.js\",\"../../chunks/733.js\",\"../../chunks/297.js\",\"../../"
+    },
+    {
+        "path":  ".next/server/app/_not-found/page.js",
+        "bytes":  2566,
+        "empty":  false,
+        "preview":  "(()=\u003e{var e={};e.id=492,e.ids=[492],e.modules={846:e=\u003e{\"use strict\";e.exports=require(\"next/dist/com"
+    },
+    {
+        "path":  ".next/server/app/_not-found/page.js.nft.json",
+        "bytes":  130,
+        "empty":  false,
+        "preview":  "{\"version\":1,\"files\":[\"../../webpack-runtime.js\",\"../../chunks/733.js\",\"../../chunks/937.js\",\"page_c"
+    },
+    {
+        "path":  ".next/server/app/_not-found/page_client-reference-manifest.js",
+        "bytes":  3400,
+        "empty":  false,
+        "preview":  "globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST[\"/_not-found/pag"
+    },
+    {
+        "path":  ".next/server/chunks/297.js",
+        "bytes":  27598,
+        "empty":  false,
+        "preview":  "exports.id=297,exports.ids=[297],exports.modules={9187:(e,i,t)=\u003e{\"use strict\";var o=t(1520);t.o(o,\"N"
+    },
+    {
+        "path":  ".next/server/chunks/627.js",
+        "bytes":  67073,
+        "empty":  false,
+        "preview":  "exports.id=627,exports.ids=[627],exports.modules={7627:(e,t,r)=\u003e{\"use strict\";Object.defineProperty("
+    },
+    {
+        "path":  ".next/server/chunks/733.js",
+        "bytes":  102119,
+        "empty":  false,
+        "preview":  "exports.id=733,exports.ids=[733],exports.modules={2490:(e,t)=\u003e{\"use strict\";Object.defineProperty(t,"
+    },
+    {
+        "path":  ".next/server/chunks/937.js",
+        "bytes":  160399,
+        "empty":  false,
+        "preview":  "exports.id=937,exports.ids=[937],exports.modules={4213:(e,t)=\u003e{\"use strict\";Object.defineProperty(t,"
+    },
+    {
+        "path":  ".next/server/pages/_app.js",
+        "bytes":  3268,
+        "empty":  false,
+        "preview":  "\"use strict\";(()=\u003e{var e={};e.id=636,e.ids=[636],e.modules={5203:(e,t,r)=\u003e{Object.defineProperty(t,\""
+    },
+    {
+        "path":  ".next/server/pages/_app.js.nft.json",
+        "bytes":  119,
+        "empty":  false,
+        "preview":  "{\"version\":1,\"files\":[\"../webpack-runtime.js\",\"../../../node_modules/next/dist/pages/_app.js\",\"../.."
+    },
+    {
+        "path":  ".next/server/pages/_document.js",
+        "bytes":  378,
+        "empty":  false,
+        "preview":  "\"use strict\";(()=\u003e{var e={};e.id=220,e.ids=[220],e.modules={361:e=\u003e{e.exports=require(\"next/dist/com"
+    },
+    {
+        "path":  ".next/server/pages/_document.js.nft.json",
+        "bytes":  143,
+        "empty":  false,
+        "preview":  "{\"version\":1,\"files\":[\"../webpack-runtime.js\",\"../chunks/627.js\",\"../../../node_modules/next/dist/pa"
+    },
+    {
+        "path":  ".next/server/pages/_error.js",
+        "bytes":  8671,
+        "empty":  false,
+        "preview":  "\"use strict\";(()=\u003e{var e={};e.id=731,e.ids=[220,731],e.modules={671:(e,t)=\u003e{Object.defineProperty(t,"
+    },
+    {
+        "path":  ".next/server/pages/_error.js.nft.json",
+        "bytes":  66,
+        "empty":  false,
+        "preview":  "{\"version\":1,\"files\":[\"../webpack-runtime.js\",\"../chunks/627.js\"]}"
+    },
+    {
+        "path":  ".next/static/chunks/203.2b4c1ee4fbe3a7cf.js",
+        "bytes":  740,
+        "empty":  false,
+        "preview":  "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[203],{5203:(e,t,l)=\u003e{Object.de"
+    },
+    {
+        "path":  ".next/static/chunks/218.57a830a2c55ba802.js",
+        "bytes":  5752,
+        "empty":  false,
+        "preview":  "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[218],{6218:(e,t,n)=\u003e{Object.de"
+    },
+    {
+        "path":  ".next/static/chunks/4bd1b696-20882bf820444624.js",
+        "bytes":  167090,
+        "empty":  false,
+        "preview":  "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[441],{9248:(e,n,t)=\u003e{var r,l,a"
+    },
+    {
+        "path":  ".next/static/chunks/517-fe7ccad031cf7948.js",
+        "bytes":  200648,
+        "empty":  false,
+        "preview":  "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[517],{5851:(e,t)=\u003e{\"use strict\";function r("
+    },
+    {
+        "path":  ".next/static/chunks/framework-469befd5baafb2b6.js",
+        "bytes":  181616,
+        "empty":  false,
+        "preview":  "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[593],{1247:(e,t,n)=\u003e{var r,l,a"
+    },
+    {
+        "path":  ".next/static/chunks/main-app-7ae1f12ef96e40e1.js",
+        "bytes":  463,
+        "empty":  false,
+        "preview":  "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[358],{7301:(e,s,n)=\u003e{Promise.resolve().then"
+    },
+    {
+        "path":  ".next/static/chunks/main-b3bdc5915e60d284.js",
+        "bytes":  110448,
+        "empty":  false,
+        "preview":  "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[792],{8925:(e,t)=\u003e{\"use strict\";function r("
+    },
+    {
+        "path":  ".next/static/chunks/polyfills-42372ed130431b0a.js",
+        "bytes":  112594,
+        "empty":  false,
+        "preview":  "!function(){var t=\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof window?window:\"undef"
+    },
+    {
+        "path":  ".next/static/chunks/webpack-405afa853003b01f.js",
+        "bytes":  3387,
+        "empty":  false,
+        "preview":  "(()=\u003e{\"use strict\";var e={},t={};function r(o){var n=t[o];if(void 0!==n)return n.exports;var a=t[o]="
+    },
+    {
+        "path":  ".next/static/chunks/app/layout-42afafa0e13f7965.js",
+        "bytes":  165,
+        "empty":  false,
+        "preview":  "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[177,345,354,389,492,974],{4441:()=\u003e{}},_=\u003e{"
+    },
+    {
+        "path":  ".next/static/chunks/app/not-found-79d810e31008bda3.js",
+        "bytes":  165,
+        "empty":  false,
+        "preview":  "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[177,345,354,389,492,974],{4441:()=\u003e{}},_=\u003e{"
+    },
+    {
+        "path":  ".next/static/chunks/app/page-652ba5c91bbbd652.js",
+        "bytes":  165,
+        "empty":  false,
+        "preview":  "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[177,345,354,389,492,974],{4441:()=\u003e{}},_=\u003e{"
+    },
+    {
+        "path":  ".next/static/chunks/app/destination-detail/page-1f16e98be04ce295.js",
+        "bytes":  165,
+        "empty":  false,
+        "preview":  "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[177,345,354,389,492,974],{4441:()=\u003e{}},_=\u003e{"
+    },
+    {
+        "path":  ".next/static/chunks/app/destinations/page-2c944b20cdc15a50.js",
+        "bytes":  165,
+        "empty":  false,
+        "preview":  "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[177,345,354,389,492,974],{4441:()=\u003e{}},_=\u003e{"
+    },
+    {
+        "path":  ".next/static/chunks/app/_not-found/page-bc19f09b88544dda.js",
+        "bytes":  165,
+        "empty":  false,
+        "preview":  "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[177,345,354,389,492,974],{4441:()=\u003e{}},_=\u003e{"
+    },
+    {
+        "path":  ".next/static/chunks/pages/_app-430fec730128923e.js",
+        "bytes":  914,
+        "empty":  false,
+        "preview":  "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[203,636],{1788:(e,t,n)=\u003e{(window.__NEXT_P=w"
+    },
+    {
+        "path":  ".next/static/chunks/pages/_error-2d7241423c4a35ba.js",
+        "bytes":  5987,
+        "empty":  false,
+        "preview":  "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[218,731],{6194:(e,t,n)=\u003e{(window.__NEXT_P=w"
+    },
+    {
+        "path":  ".next/static/Pvci0srCmKvq7XzILhXwZ/_buildManifest.js",
+        "bytes":  658,
+        "empty":  false,
+        "preview":  "self.__BUILD_MANIFEST=function(r,e,t){return{__rewrites:{afterFiles:[],beforeFiles:[],fallback:[]},_"
+    },
+    {
+        "path":  ".next/static/Pvci0srCmKvq7XzILhXwZ/_ssgManifest.js",
+        "bytes":  77,
+        "empty":  false,
+        "preview":  "self.__SSG_MANIFEST=new Set,self.__SSG_MANIFEST_CB\u0026\u0026self.__SSG_MANIFEST_CB();"
+    },
+    {
+        "path":  ".next/types/cache-life.d.ts",
+        "bytes":  5864,
+        "empty":  false,
+        "preview":  "// Type definitions for Next.js cacheLife configs\\\\n\\\\ndeclare module \u0027next/cache\u0027 {\\\\n  export { unstable"
+    },
+    {
+        "path":  ".next/types/package.json",
+        "bytes":  18,
+        "empty":  false,
+        "preview":  "{\"type\": \"module\"}"
+    },
+    {
+        "path":  ".next/types/app/layout.ts",
+        "bytes":  3697,
+        "empty":  false,
+        "preview":  "// File: D:\\AGENCY\\YouTour\\src\\app\\layout.tsx\\\\nimport * as entry from \u0027../../../src/app/layout.js\u0027\\\\nim"
+    },
+    {
+        "path":  ".next/types/app/page.ts",
+        "bytes":  3685,
+        "empty":  false,
+        "preview":  "// File: D:\\AGENCY\\YouTour\\src\\app\\page.tsx\\\\nimport * as entry from \u0027../../../src/app/page.js\u0027\\\\nimport"
+    },
+    {
+        "path":  ".next/types/app/destination-detail/page.ts",
+        "bytes":  3748,
+        "empty":  false,
+        "preview":  "// File: D:\\AGENCY\\YouTour\\src\\app\\destination-detail\\page.tsx\\\\nimport * as entry from \u0027../../../../s"
+    },
+    {
+        "path":  ".next/types/app/destinations/page.ts",
+        "bytes":  3730,
+        "empty":  false,
+        "preview":  "// File: D:\\AGENCY\\YouTour\\src\\app\\destinations\\page.tsx\\\\nimport * as entry from \u0027../../../../src/app"
+    },
+    {
+        "path":  "public/favicon.ico",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "public/assets/images/app_logo.png",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "public/assets/images/no_image.png",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/layout.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/not-found.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/page.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/robots.ts",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/sitemap.ts",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/components/FeaturedDestinationsSection.tsx",
+        "bytes":  9500,
+        "empty":  false,
+        "preview":  "\u0027use client\u0027;\\\\r\\\\n\\\\r\\\\nimport React from \u0027react\u0027;\\\\r\\\\nimport { motion } from \u0027framer-motion\u0027;\\\\r\\\\nimport Link fr"
+    },
+    {
+        "path":  "src/app/components/HeroSection.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/components/ItineraryTeaser.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/components/LiveBookingToast.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/components/MoodSearchSection.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/components/SpotlightCardInit.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/components/TestimonialsSection.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/components/WhyWanderlust.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/destination-detail/page.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/destination-detail/components/DestinationDetails.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/destinations/page.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/destinations/components/DestinationsClient.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/app/destinations/components/DestinationsWrapper.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/components/Footer.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/components/Header.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/components/ui/AppIcon.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/components/ui/AppImage.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/components/ui/AppLogo.tsx",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/styles/index.css",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    },
+    {
+        "path":  "src/styles/tailwind.css",
+        "bytes":  0,
+        "empty":  true,
+        "preview":  ""
+    }
+]
